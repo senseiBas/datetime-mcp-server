@@ -25,7 +25,7 @@ A simple, focused MCP (Model Context Protocol) server that provides current date
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/datetime-mcp-server.git
+git clone https://github.com/<ACTUAL_USERNAME_OR_ORG>/datetime-mcp-server.git
 cd datetime-mcp-server
 ```
 
